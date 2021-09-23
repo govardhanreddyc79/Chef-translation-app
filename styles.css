@@ -29,6 +29,7 @@ body {
     font-size: 2rem;
     margin: 1rem auto;
     display: block;
+    cursor: pointer;
     font-family: 'Julee', cursive;
 
 }
